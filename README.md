@@ -5,11 +5,11 @@ I enjoy combining technology and creativity to build meaningful and user-focused
 
 🚀 What I Do
 
-📱 Mobile App Development (Flutter) – Final Year Project
+Mobile App Development (Flutter) – Final Year Project
 
-🤖 AI & Machine Learning – Academic & side projects
+AI & Machine Learning – Academic & side projects
 
-🎨 UI/UX Design – Creating clean and intuitive interfaces
+UI/UX Design – Creating clean and intuitive interfaces
 
 🧠 Current Focus
 
