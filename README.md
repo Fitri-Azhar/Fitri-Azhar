@@ -1,30 +1,21 @@
 ##### Hi there 👋
-
-<sup> I’m a Computer Science student at UiTM and currently an intern at Novutal Consulting Sdn Bhd.
+<sup> I’m a Computer Science student at UiTM and currently an intern at Novutal Consulting Sdn Bhd.<br>
  I enjoy combining technology and creativity to build meaningful and user-focused digital experiences. </sup>
 
 ##### 🚀 What I Do
-
-<sup> Mobile App Development (Flutter) – Final Year Project
-
-<sup> AI & Machine Learning – Academic & side projects
-
-<sup> UI/UX Design – Creating clean and intuitive interfaces </sup>
+<sup>Mobile App Development (Flutter) – Building a Voice-Assisted Running App (Final Year Project)<br>
+AI & Machine Learning – Academic & side projects<br>
+UI/UX Design – Creating clean and intuitive interfaces<\sup>
 
 ##### 🧠 Current Focus
 
-<sup> Building a Voice-Assisted Running App
-
- <sup>Exploring AI + User Experience
-
-<sup> Developing side projects to strengthen my portfolio </sup>
+<sup>Learning Python<br>
+Developing side projects to strengthen my portfolio </sup>
 
 #####  🛠️ Tech Stack
-
-<sup> Languages: C++, Java, Dart (Flutter)
-<sup> Tools & Platforms: Firebase, MySQL
-
-<sup> AI & Analytics: Weka, AI Studio, Power BI, Tableau </sup>
+<sup> Languages: C++, Java, Dart (Flutter), Python<br>
+Tools & Platforms: Firebase, MySQL<br>
+AI & Analytics: Weka, AI Studio, Power BI, Tableau </sup>
 
 ##### ✨Interests
 
