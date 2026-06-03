@@ -5,7 +5,6 @@
 ##### What I Do
 <sup>Mobile App Development (Flutter) – Building a Voice-Assisted Running App (Final Year Project)<br>
 AI & Machine Learning – Academic & side projects<br>
-UI/UX Design – Creating clean and intuitive interfaces<\sup>
 
 ##### Current Focus
 
